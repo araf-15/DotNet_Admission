@@ -24,4 +24,4 @@ namespace Problem_4
 
 
 
-//Sir, I did not study this topic. This Linq query is my assumption.
+//Sir, I did not study this topic. I just assume this query.
